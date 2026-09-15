@@ -1,5 +1,5 @@
 # Popular-Movies-of-IMDb
-**Project Details**
+**Project Learnings**
 - Extracted raw IMDb movie dataset from Kaggle and performed data cleaning and manipulation using pandas
 - Performed Exploratory Data Analysis (EDA) using pandas, matplotlib and seaborn libraries
 - Analyzed movie rating distribution and identified the most popular movie languages and languages with the highest average ratings
